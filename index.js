@@ -22,6 +22,6 @@ function calcularNivel(vitorias) {
 }        
 saldoVitorias = calcularSaldos(25, 10)
 let nivel = calcularNivel(10)
-console.log("O héroi tem saldo de",saldoVitorias, "e está no nível de", nivel)
+console.log("O herói tem saldo de",saldoVitorias, "e está no nível de", nivel)
 
 //repo clonado
